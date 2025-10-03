@@ -1,0 +1,120 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_89092C34_A93E_5D01_41C2_B738BE47E666.url = //www.youtube.com/embed/eiSYF1zMXHg
+PopupWebFrameBehaviour_B294911B_A926_C707_41A7_7E2129E5A955.url = //www.youtube.com/embed/eiSYF1zMXHg
+
+## Media
+
+### Audio
+audiores_8B2177F3_A922_CB07_41A4_B6CCE5A6827D.mp3Url = media/audio_8ADF4E37_A922_BD0F_41BD_51DD88DA4C59_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_400A4D79_5119_3D5E_418A_6CF46B3BB478.label = IMG_20250916_083007_607
+panorama_7D22508A_512A_E3B2_41C6_38B4DB5962C3.label = IMG_20250916_083010_564
+panorama_7B22BC85_5139_23B6_41D2_8ED2F8968BAE.label = IMG_20250916_083013_567
+panorama_41E3E712_5119_6ED2_41D0_19216CC624DD.label = IMG_20250916_083017_014
+panorama_41E45384_5119_25B6_41D2_A857B1B4ACA5.label = IMG_20250916_083022_836
+panorama_7D2132AD_5136_E7F6_41C5_BFD74DC15EFE.label = IMG_20250916_083025_303
+panorama_41E39F91_5119_FDAE_41CB_C31A63E3AD80.label = IMG_20250916_083028_293
+panorama_41E3ADDB_5119_DD52_41C7_6CDADB2EBAAE.label = IMG_20250916_083031_361
+panorama_41E37CF0_5119_236E_41AC_D021A1F7CFAB.label = IMG_20250916_083033_905
+panorama_41E4EE12_5119_5ED2_41D2_A9BF2C53463B.label = IMG_20250916_083037_183
+
+## Skin
+
+### Button
+Button_77F6D2A7_6075_11FF_41D1_6DD32E4352AE.label = BACK
+Button_77F562A7_6075_11FF_41B9_92D1D45DAE49.label = BACK
+Button_77F7B2A7_6075_11FF_41D1_15D7BABE3FB8.label = BACK
+Button_77F6C2A6_6075_11F1_41D5_025B58911CD3.label = BACK
+Button_77F7D2A6_6075_11F1_41B6_D8AC5E6C0CFA.label = BACK
+Button_77F722A7_6075_11FF_41CD_F817B39318B2.label = BACK
+Button_77F752A6_6075_11F1_41C8_913163BB18B2.label = Bar
+Button_77F722A6_6075_11F1_41C3_D1CE180F0FC6.label = Chill Out
+Button_77F712A6_6075_11F1_41B1_11E765722F38.label = Garden
+Button_77F632A6_6075_11F1_41C7_82932DDED010.label = LAITTEET:
+Button_79AEA412_607D_10D1_41D0_1DF7ABF2786A.label = Lantionnostolaite
+Button_77F692A6_6075_11F1_41D1_96F2F048CC2F.label = Lobby
+Button_77F6E2A7_6075_11FF_41C9_9B75B4EF25B5.label = Lorem Ipsum
+Button_77F752A7_6075_11FF_41D2_A4B884E963DF.label = Lorem Ipsum
+Button_77F7E2A6_6075_11F1_41BB_F206F088C75E.label = Lorem Ipsum
+Button_77F722A7_6075_11FF_41B3_2CE1F9F2F064.label = Lorem Ipsum
+Button_77F462A7_6075_11FF_41D1_FF74D570CA22.label = Lorem Ipsum
+Button_77F472A7_6075_11FF_41C7_04FC72A4C77D.label = Lorem Ipsum
+Button_77F442A7_6075_11FF_41B1_0C243DB5BF4C.label = Lorem Ipsum
+Button_77F442A7_6075_11FF_41B1_0C243DB5BF4C.pressedLabel = Lorem Ipsum
+Button_77F452A7_6075_11FF_41B5_9AA6C94BC6BA.label = Lorem Ipsum
+Button_77F422A7_6075_11FF_41D1_E827C8C87B29.label = Lorem Ipsum
+Button_77F7F2A7_6075_11FF_41D1_F2EEEB4BCE0C.label = Lorem Ipsum
+Button_77F6B2A7_6075_11FF_41B5_614A8E0B728A.label = Lorem Ipsum
+Button_77F682A7_6075_11FF_41D6_9A22CF8FD32D.label = Lorem Ipsum
+Button_77F692A7_6075_11FF_41B0_C231C12963AE.label = Lorem Ipsum
+Button_77F762A7_6075_11FF_41D5_A68EAAAD6E98.label = Lorem Ipsum
+Button_77F7E2A7_6075_11FF_41CB_757340A536F0.label = Lorem Ipsum
+Button_77F712A7_6075_11FF_41CC_F981CE6D49D0.label = Lorem Ipsum
+Button_77F7E2A7_6075_11FF_41D5_74F5D8431D8D.label = Lorem Ipsum
+Button_77F7F2A7_6075_11FF_41C9_9B181E132EEE.label = Lorem Ipsum
+Button_77F7F2A7_6075_11FF_41C9_9B181E132EEE.pressedLabel = Lorem Ipsum
+Button_77F7D2A7_6075_11FF_41B4_0E5EDEEB5F70.label = Lorem Ipsum
+Button_77F7A2A7_6075_11FF_41CD_149614910687.label = Lorem Ipsum
+Button_77F7D2A7_6075_11FF_41B9_61697C72617B.label = Lorem Ipsum
+Button_77F782A7_6075_11FF_41C8_D09D0E0312F6.label = Lorem Ipsum
+Button_77F792A7_6075_11FF_41C7_D61269052ED7.label = Lorem Ipsum
+Button_77F432A8_6075_11F1_41D6_06F5DF2D4120.label = Lorem Ipsum
+Button_77F6F2A7_6075_11FF_41BB_39744E16062B.label = Lorem Ipsum
+Button_77F422A8_6075_11F1_4199_E949E0845715.label = Lorem Ipsum
+Button_77F692A7_6075_11FF_41B4_D7E9B2256A60.label = Lorem Ipsum
+Button_77F762A7_6075_11FF_419B_891946D67E52.label = Lorem Ipsum
+Button_77F772A7_6075_11FF_41D6_782C75B13700.label = Lorem Ipsum
+Button_77F772A7_6075_11FF_41D6_782C75B13700.pressedLabel = Lorem Ipsum
+Button_77F452A8_6075_11F1_41CF_A079D05DF1F6.label = Lorem Ipsum
+Button_77F442A8_6075_11F1_41C6_124F8AA730B8.label = Lorem Ipsum
+Button_77F422A7_6075_11FF_41B7_FB1A935B9B6F.label = Lorem Ipsum
+Button_77F792A8_6075_11F1_41B4_D44007575909.label = Lorem Ipsum
+Button_77F402A7_6075_11FF_41D0_78AB8ADEC996.label = Lorem Ipsum
+Button_77F7C2A7_6075_11FF_41D7_AB15C45D060F.label = Lorem Ipsum
+Button_77F782A8_6075_11F1_41C8_E068E100E65B.pressedLabel = Lorem Ipsum
+Button_77F4E2A7_6075_11FF_41D0_144182B7D5A9.label = Lorem Ipsum
+Button_77F472A7_6075_11FF_41C9_57D529E9A4B0.label = Lorem Ipsum
+Button_77F442A7_6075_11FF_41D3_E1319A59AE8A.label = Lorem Ipsum
+Button_77F452A7_6075_11FF_41D0_DABC2EE42941.label = Lorem Ipsum
+Button_77F452A7_6075_11FF_41D0_DABC2EE42941.pressedLabel = Lorem Ipsum
+Button_77F4C2A7_6075_11FF_41BE_A725FC813E99.label = Lorem Ipsum
+Button_77F4B2A7_6075_11FF_41AD_953AA50E2085.label = Lorem Ipsum
+Button_77F7D2A8_6075_11F1_41BE_CC9CDE29E47A.label = Lorem Ipsum
+Button_77F7C2A8_6075_11F1_41BC_9A72ECC714C7.label = Lorem Ipsum
+Button_77F4F2A7_6075_11FF_41D1_73D12CD2FB6B.label = Lorem Ipsum
+Button_77F782A8_6075_11F1_41C8_E068E100E65B.label = Lorem Ipsum
+Button_77F462A8_6075_11F1_41D3_AF4793EADDFE.label = Lorem Ipsum
+Button_77F7B2A7_6075_11FF_41CF_AB34F5A6F82F.label = Lorem ipsum
+Button_77F702A7_6075_11FF_41C3_2558AB8BDB5C.label = Lorem ipsum
+Button_77F412A7_6075_11FF_41D2_F3A5BAB37E17.label = Lorem ipsum
+Button_77F432A7_6075_11FF_41CB_588AFDA8B58D.label = Lorem ipsum
+Button_77F472A8_6075_11F1_41BE_F2B1C874C1FE.label = Lorem ipsum
+Button_77F682A6_6075_11F1_41D4_6F2F081A25FD.label = Main Entrance
+Button_77F772A6_6075_11F1_41D3_103ED29474DD.label = Meeting Area 1
+Button_77F742A6_6075_11F1_41A2_2342FEB93A48.label = Meeting Area 2
+Button_77F762A6_6075_11F1_41C8_5AC3A0824683.label = Reception
+Button_77F762A6_6075_11F1_41C8_5AC3A0824683.pressedLabel = Reception
+Button_77F732A6_6075_11F1_41AC_568EA72C147D.label = Terrace
+Button_77F612A6_6075_11F1_41D6_18BCDE64CE90.label = Työntökelkka
+
+### Image
+Image_77F672A6_6075_11F1_41D7_770F9C6972A9.url = skin/Image_77F672A6_6075_11F1_41D7_770F9C6972A9_en.jpeg
+Image_79801562_5169_6D72_41CF_31F9CE135286.url = skin/Image_79801562_5169_6D72_41CF_31F9CE135286_en.png
+Image_7B5A85A4_511A_EDF6_4178_BAC03B671C90.url = skin/Image_7B5A85A4_511A_EDF6_4178_BAC03B671C90_en.png
+
+### Multiline Text
+HTMLText_77F722A6_6075_11F1_41C1_889C0DBF3378.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Karstulan Kunnon sali
